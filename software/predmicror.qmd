@@ -1,0 +1,12 @@
+---
+author: Vasco Cadavez & Ursula Gonzales-Barron
+date: 2022-04-30
+title: "predmicror: Fitting predictive microbiology models in r"
+link: https://fsqanalytics.github.io/predmicror/
+github: hhttps://github.com/fsqanalytics/predmicror
+toc: false
+---
+
+# predmicror
+
+`predmicror` is a compilation of predictive microbiology models frequently applied to experimental data. The first release features a range of the most widely used full, reduced, and no-lag growth models.
