@@ -121,23 +121,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Website for PAS-AGRO-PAS Project Researchers",
+    "title": "Website Template for PAS-AGRO-PAS Project Researchers",
     "section": "",
-    "text": "PAS-AGRO-PAS Researcher Website Template is a customizable template designed specifically for researchers associated with the PAS-AGRO-PAS project. This template provides a streamlined, user-friendly way for researchers to create their own professional academic websites. The template includes sections for introducing research interests, showcasing publications, sharing project updates, and highlighting academic achievements."
+    "text": "The PAS-AGRO-PAS Researcher Website Template is a versatile, user-friendly tool tailored to researchers participating in the PAS-AGRO-PAS project. It empowers academics to create professional, personalized websites that effectively showcase their work, foster collaboration, and enhance their online presence."
   },
   {
     "objectID": "index.html#key-features-of-the-template-include",
     "href": "index.html#key-features-of-the-template-include",
-    "title": "Website for PAS-AGRO-PAS Project Researchers",
+    "title": "Website Template for PAS-AGRO-PAS Project Researchers",
     "section": "Key features of the template include:",
     "text": "Key features of the template include:\n\nResponsive Design: Ensures that the website is accessible and visually appealing on various devices, including desktops, tablets, and smartphones.\nCustomization Options: Users can easily modify the layout, colors, and content to match their personal or institutional branding.\nPre-Formatted Sections: Ready-made sections for bio, research interests, publications, projects, and contact information to help researchers quickly set up their site.\n\nThis template is ideal for researchers who want to maintain an online presence, share their work, and connect with the academic community.\n\nVisit the Website: https://github.com/PAS-AGRO-PAS/ResearcherWebsiteTemplate"
   },
   {
     "objectID": "index.html#colors",
     "href": "index.html#colors",
-    "title": "Website for PAS-AGRO-PAS Project Researchers",
+    "title": "Website Template for PAS-AGRO-PAS Project Researchers",
     "section": "Colors",
-    "text": "Colors\n\nWebsite Background: #D9E3E4\nHeadings: #5B888C\n\n\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+    "text": "Colors\n\nWebsite Background: #CBBBA0\nHeadings: #A3BF4E\n\n\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
   },
   {
     "objectID": "publications/lamb-sur.html",
@@ -173,5 +173,33 @@
     "title": "Tutorials",
     "section": "",
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTerminologia Zootécnica - Animal Science Terminology\n\n\n\n\n\n\nTerminologia\n\n\nZootecnia\n\n\nTerminology\n\n\nAnimal Science\n\n\n\n\n\n\n\n\n\n10 April 2024\n\n\nVasco Cadavez\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#key-features-of-the-template",
+    "href": "index.html#key-features-of-the-template",
+    "title": "Website Template for PAS-AGRO-PAS Project Researchers",
+    "section": "Key Features of the Template",
+    "text": "Key Features of the Template\n\nResponsive Design: Ensures accessibility and a polished appearance across all devices, including desktops, tablets, and smartphones.\n\nFlexible Customization: Personalize the layout, color scheme, and content to align with your individual or institutional identity effortlessly.\n\nPre-Formatted Sections: Simplify the setup process with ready-to-use templates for biographies, research interests, publications, project updates, and contact details."
+  },
+  {
+    "objectID": "index.html#why-use-this-template",
+    "href": "index.html#why-use-this-template",
+    "title": "Website Template for PAS-AGRO-PAS Project Researchers",
+    "section": "Why Use This Template?",
+    "text": "Why Use This Template?\nThis template is ideal for researchers who want to: - Establish and maintain a professional online presence.\n- Share their academic achievements and ongoing projects.\n- Facilitate collaboration by connecting with peers and the broader academic community."
+  },
+  {
+    "objectID": "index.html#get-started-today",
+    "href": "index.html#get-started-today",
+    "title": "Website Template for PAS-AGRO-PAS Project Researchers",
+    "section": "Get Started Today",
+    "text": "Get Started Today\nExplore the full potential of the template by visiting the official repository:\nhttps://github.com/PAS-AGRO-PAS/ResearcherWebsiteTemplate"
+  },
+  {
+    "objectID": "index.html#color-scheme",
+    "href": "index.html#color-scheme",
+    "title": "Website Template for PAS-AGRO-PAS Project Researchers",
+    "section": "Color Scheme",
+    "text": "Color Scheme\nThe template uses a professional and visually appealing color palette: - Website Background: A warm beige tone (#CBBBA0) to create a welcoming and neutral backdrop.\n- Headings: A vibrant green (#A3BF4E) for headings to ensure clear, accessible, and engaging visual hierarchy.\n\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
   }
 ]

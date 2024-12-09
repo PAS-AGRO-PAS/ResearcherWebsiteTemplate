@@ -1,24 +1,33 @@
 ---
-title: "Website for PAS-AGRO-PAS Project Researchers"
+title: "Website Template for PAS-AGRO-PAS Project Researchers"
 output: html_document
 ---
 
-PAS-AGRO-PAS Researcher Website Template is a customizable template designed specifically for researchers associated with the PAS-AGRO-PAS project. This template provides a streamlined, user-friendly way for researchers to create their own professional academic websites. The template includes sections for introducing research interests, showcasing publications, sharing project updates, and highlighting academic achievements.
+The **PAS-AGRO-PAS Researcher Website Template** is a versatile, user-friendly tool tailored to researchers participating in the PAS-AGRO-PAS project. It empowers academics to create professional, personalized websites that effectively showcase their work, foster collaboration, and enhance their online presence.
 
-## Key features of the template include:
+## Key Features of the Template
 
-* Responsive Design: Ensures that the website is accessible and visually appealing on various devices, including desktops, tablets, and smartphones.
-* Customization Options: Users can easily modify the layout, colors, and content to match their personal or institutional branding.
-* Pre-Formatted Sections: Ready-made sections for bio, research interests, publications, projects, and contact information to help researchers quickly set up their site.
+- **Responsive Design**: Ensures accessibility and a polished appearance across all devices, including desktops, tablets, and smartphones.  
+- **Flexible Customization**: Personalize the layout, color scheme, and content to align with your individual or institutional identity effortlessly.  
+- **Pre-Formatted Sections**: Simplify the setup process with ready-to-use templates for biographies, research interests, publications, project updates, and contact details.
 
-This template is ideal for researchers who want to maintain an online presence, share their work, and connect with the academic community.
+## Why Use This Template?
 
-* Visit the Website: [https://github.com/PAS-AGRO-PAS/ResearcherWebsiteTemplate](https://github.com/PAS-AGRO-PAS/ResearcherWebsiteTemplate/)
+This template is ideal for researchers who want to:
+- Establish and maintain a professional online presence.  
+- Share their academic achievements and ongoing projects.  
+- Facilitate collaboration by connecting with peers and the broader academic community.
 
-## Colors
+## Get Started Today
 
-- **Website Background**: `#D9E3E4`
-- **Headings**: `#5B888C`
+Explore the full potential of the template by visiting the official repository:  
+[https://github.com/PAS-AGRO-PAS/ResearcherWebsiteTemplate](https://github.com/PAS-AGRO-PAS/ResearcherWebsiteTemplate/)
+
+## Color Scheme
+
+The template uses a professional and visually appealing color palette:
+- **Website Background**: A warm beige tone (`#CBBBA0`) to create a welcoming and neutral backdrop.  
+- **Headings**: A vibrant green (`#A3BF4E`) for headings to ensure clear, accessible, and engaging visual hierarchy.
 
 ***
 

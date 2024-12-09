@@ -1,3 +1,11 @@
+
+// Variables (Add any variables you want to use in SCSS)
+$primary-color: #36454f;
+$secondary-color: #e9fc90;
+$background-light: #fff;
+$background-dark: #36454f;
+
+// Nesting and Adjustments from CSS to SCSS
 /* =Typography
 -----------------------------------------------------------------------------*/
 body {
@@ -309,4 +317,59 @@ div.quarto-about-trestles .about-entity .about-link:hover {
 
 #mlb2-4240669.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody, #mlb2-4240669.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody {
   padding: 0px !important;
+}
+
+/* Logo Variants */
+.logo-colored {
+  background-color: #fff; /* White background for colored logo */
+  display: inline-block;
+}
+
+.logo-white {
+  background-color: transparent; /* Use transparent for dark backgrounds */
+  filter: invert(1); /* Ensure visibility on dark backgrounds */
+}
+
+.logo-black {
+  background-color: #fff; /* Use white background for black logo */
+}
+
+/* Common Logo Styles */
+.logo {
+  display: inline-block;
+  max-width: 200px; /* Maintain recommended size */
+  height: auto; /* Preserve aspect ratio */
+  margin: 10px auto; /* Centralized spacing */
+}
+
+@media (max-width: 768px) {
+  .logo {
+    max-width: 150px; /* Resize for smaller screens */
+  }
+}
+
+/* Typography for Logo-Related Text */
+.logo-text {
+  font-family: 'Fira Sans', 'Trebuchet MS', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #36454f;
+  font-size: 1.1em; /* Highlight text around the logo */
+  margin-top: 10px;
+  text-align: center;
+}
+
+/* Utility Classes for Backgrounds */
+.bg-light {
+  background-color: #fff; /* Suitable for dark logos */
+}
+
+.bg-dark {
+  background-color: #36454f; /* Suitable for light logos */
+  color: #e9fc90; /* Ensure text visibility */
+}
+
+.bg-simple-pattern {
+  background: url('simple-pattern.png'); /* Replace with appropriate pattern */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }

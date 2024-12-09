@@ -9,7 +9,7 @@ website:
   title: "Vasco Cadavez"
   site-url: "https://ipb.pt/vcadavez"
   navbar:
-    background: "#04700d"
+    background: "#A3BF4E"
     right:
       - href: index.qmd
         text: About
@@ -31,14 +31,14 @@ website:
         href: https://github.com/vcadavez
       - icon: twitter
         href: https://twitter.com/Vcadavez
-    background: "#04700d"
+    background: "#A3BF4E"
 
 date-format: "D MMMM YYYY"
 
 format:
   html:
     theme: minty #cerulean
-    css: styles.css
+    css: styles.scss
     toc: true
     html-math-method: katex
     # include-in-header:
